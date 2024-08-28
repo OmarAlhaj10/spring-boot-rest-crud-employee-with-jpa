@@ -1,4 +1,4 @@
-# Spring Boot REST CRUD Employee with JPA and MySQL
+# Spring Boot REST CRUD with JPA and MySQL
 
 This is a simple Spring Boot application that demonstrates a RESTful CRUD API for managing Employee records. The project uses Spring Boot, Hibernate/JPA for ORM, and MySQL as the database.
 
